@@ -1,2 +1,1 @@
-Il seguente progetto è stato realizzato come elaborato finale del corso in Programmazione orientata agli oggetti erogato al secondo anno della laurea triennale in ingegneria informatica all'Università della Calabria.
-E' stato realizzata una classe in grado di gestire un albero binario di ricerca in linguaggio Java
+The project has been developed as the final project of the Object-Oriented Programming course, which was part of the second year curriculum of the Bachelor's degree program in Computer Engineering at the University of Calabria. A Java class has been implemented to manage a binary search tree.
