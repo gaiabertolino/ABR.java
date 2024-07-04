@@ -1,1 +1,5 @@
-The project has been developed as the final project of the Object-Oriented Programming course, which was part of the second year curriculum of the Bachelor's degree program in Computer Engineering at the University of Calabria. A Java class has been implemented to manage a binary search tree.
+# alberoBinarioDiRicercaProject
+
+This project was developed as part of a degree coursework exam for the course of Object-Oriented Programming during the second year of my Bachelor's degree in Computer Engineering.
+
+Java-based project to manage a binary search tree.
